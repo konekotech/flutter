@@ -14,24 +14,19 @@ class _GridViewPageState extends State<GridViewPage> {
         onPressed: () {},
       ),
       body: GridView.builder(
-        gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-          crossAxisCount: 2, 
-          crossAxisSpacing: 10,
-          mainAxisSpacing: 10,
+          gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+            crossAxisCount: 2,
+            crossAxisSpacing: 10,
+            mainAxisSpacing: 10,
           ),
           itemBuilder: (context, index) => Container(
-            color: Colors.black,
-            child: Center(
-              child: Text(
-                index.toString(),
-                style: TextStyle( 
-                  fontSize: 42,
-                  color: Colors.white,
-                )
-              )
-            )
-          )
-      ),
+              color: Colors.black,
+              child: Center(
+                  child: Text(index.toString(),
+                      style: TextStyle(
+                        fontSize: 42,
+                        color: Colors.white,
+                      ))))),
     );
   }
 }
