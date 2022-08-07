@@ -1,0 +1,128 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "chapter2",
+			"cwd": "chapter2",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "chapter2 (profile mode)",
+			"cwd": "chapter2",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "chapter2 (release mode)",
+			"cwd": "chapter2",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "chatapp2",
+			"cwd": "chatapp2",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "chatapp2 (profile mode)",
+			"cwd": "chatapp2",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "chatapp2 (release mode)",
+			"cwd": "chatapp2",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "hello_world",
+			"cwd": "hello_world",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "hello_world (profile mode)",
+			"cwd": "hello_world",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "hello_world (release mode)",
+			"cwd": "hello_world",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "layout_samples",
+			"cwd": "layout_samples",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "layout_samples (profile mode)",
+			"cwd": "layout_samples",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "layout_samples (release mode)",
+			"cwd": "layout_samples",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "mychatapp",
+			"cwd": "mychatapp",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "mychatapp (profile mode)",
+			"cwd": "mychatapp",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "mychatapp (release mode)",
+			"cwd": "mychatapp",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		},
+		{
+			"name": "flutter_application_1",
+			"cwd": "test/flutter_application_1",
+			"request": "launch",
+			"type": "dart"
+		},
+		{
+			"name": "flutter_application_1 (profile mode)",
+			"cwd": "test/flutter_application_1",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "profile"
+		},
+		{
+			"name": "flutter_application_1 (release mode)",
+			"cwd": "test/flutter_application_1",
+			"request": "launch",
+			"type": "dart",
+			"flutterMode": "release"
+		}
+	]
+}
